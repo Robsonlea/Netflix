@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#D61E21</color>
+    <color name="purple_500">#780000</color>
+    <color name="purple_700"></color>
+    <color name="fundo_app">#ff393939</color>
+    @android:color/white
+
+</resources>
